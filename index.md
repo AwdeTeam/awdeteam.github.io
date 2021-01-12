@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+testvar: Hi
 ---
 
 # AWDE Team Action System Control (ATAS)
@@ -15,23 +16,30 @@ place for member to go so they can see what all is going on.
 
 ---
 
-# Design
+# Overview
 
-## Organization
-If the lists and trees here seem disorderly or hard-to-navigate, consider re-organizing them!
+## Activities
 
-## Procedures
-Before doing anything, check to see if there's a procedure here for it. If so, follow the procedure.
-If not, consider writing one!
+## [Groups](groups)
+Groups meet on some regular (or semi-regular) schedule and have a topic or main activity but no
+definite goals. Our currently active groups are
 
-A procedure is a process that can be followed to produce an outcome. It should provide enough
-information for the user to understand what they're doing if they want it and it should provide
-resources (usually links) as needed.
+  + nothing! this should change!
 
-## Templates
-Before writing a procedure, check to see if there's a relevant template for it. Use the most
-specific template that applies. If there's no relevant template or the most relevant template
-doesn't seem specific enough, consider making one!
+## [Projects](projects)
+Projects are more limited in timeframe than groups. They have clear goals set and agreed on by the
+members when the project starts, as well as a set number of meetings planned in advance. Our
+currently active projects are
 
-A template is a shell of a procedure. Instead of writing out a new procedure from scratch, a
-template allows you to build standards by enforcing conventions.
+  + [Radiopunk Mini-Campaign](projects/games/radiopunk)
+
+## [Events](events)
+Events are the wildcard activities, festivals, and other random nonsense we get up to. Upcoming
+events include:
+
+  + none! add some!
+
+## [Procedures](procedures)
+
+These are simple procedures designed to standardize common AWDE activities, mainly centered around
+starting groups, campaigns, projects, or other things (and thus targeted at leaders).
