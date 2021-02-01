@@ -11,8 +11,8 @@ layout: home
 Groups meet on some regular (or semi-regular) schedule and have a topic or main activity but no
 definite goals. Our currently active groups are
 
-  + [Simple Games](groups/simple-games); Unscheduled
-  + [Mythos Club](groups/mythos); Unscheduled
+  + [Online Games](groups/online-games); Unscheduled
+  + [Mythos Club](groups/mythos-club); Unscheduled
 
 ## [Projects](projects)
 Projects are more limited in timeframe than groups. They have clear goals set and agreed on by the
