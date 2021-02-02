@@ -1,3 +1,6 @@
+---
+---
+
 @charset "utf-8";
 
 // Define defaults for each variable.
@@ -42,7 +45,6 @@ $on-large:         $on-laptop !default;
 }
 
 // Import pre-styling-overrides hook and style-partials.
-@import
-  "base",             // Defines element resets.
-  "layout",           // Defines structure and style based on CSS selectors.
-;
+@import "skins/dark";        // Defines theme
+@import "_base";             // Defines element resets.
+@import "_layout";           // Defines structure and style based on CSS selectors.
