@@ -25,7 +25,7 @@ currently active projects are
 Events are the wildcard activities, festivals, and other random nonsense we get up to. Upcoming
 events include:
 
-  + [Gestalt Projects Planning](/events/gestalt-project-planning); Saturday 2021-01-06 at 14:30 EST
+  + [Gestalt Projects Planning](/events/gestalt-project-planning); Saturday 2021-01-13 at 14:30 EST
   + [Hiking](/events/hiking); Unscheduled
 
 ## [Archives](archives)
