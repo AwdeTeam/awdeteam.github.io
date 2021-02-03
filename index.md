@@ -11,7 +11,7 @@ layout: home
 Groups meet on some regular (or semi-regular) schedule and have a topic or main activity but no
 definite goals. Our currently active groups are
 
-  + [Online Games](groups/online-games); Unscheduled
+  + [Online Games](groups/online-games); Every Wednesday AST
   + [Mythos Club](groups/mythos-club); Unscheduled
 
 ## [Projects](projects)
