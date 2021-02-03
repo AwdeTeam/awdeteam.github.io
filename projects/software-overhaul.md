@@ -7,7 +7,7 @@ layout: page
 AWDE uses a bunch of different tools and software and we're wanting to move toward a more systematic
 and self-owned environment.
 
-**STATUS: Inactive**
+**STATUS: Project Planning meeting on 2021-02-08 at 19:30 EST over Discord**
 
 ## Specific Goals
 
