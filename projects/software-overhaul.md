@@ -22,6 +22,10 @@ and self-owned environment.
     + [Discourse](https://www.discourse.org/) (tentative)
     + [Next Cloud](https://nextcloud.com/) (tentative; explore other filesharing options first)
   + Bots
+    + Bot Framework
+      + Can handle core IO logic (read/respond to comments)
+      + Standardized debugging for convenience
+      + Custom "Bot Interfaces" to work with Discord, Matrix, et al
     + Calendar Bot
       + Can connect to the Discord, Matrix, or an arbitrary web endpoint
       + Can use multiple calendars
