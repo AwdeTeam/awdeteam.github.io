@@ -19,7 +19,7 @@ Projects are more limited in timeframe than groups. They have clear goals set an
 members when the project starts, as well as a set number of meetings planned in advance. Our
 currently active projects are
 
-  + [Software Overhaul](/projects/software-overhaul); 2021-02-08 AST
+  + [Software Overhaul](/projects/software-overhaul); Most Thursdays AST until mid-May
 
 ## [Events](events)
 Events are the wildcard activities, festivals, and other random nonsense we get up to. Upcoming
