@@ -19,6 +19,8 @@ and self-owned environment.
     + [Media wiki](https://www.mediawiki.org/wiki/MediaWiki)
     + [Gitea](https://gitea.io/en-us/)
     + [Matrix Synapse](https://matrix.org/docs/projects/server/synapse)
+    + [Discourse](https://www.discourse.org/) (tentative)
+    + [Next Cloud](https://nextcloud.com/) (tentative; explore other filesharing options first)
   + Bots
     + Calendar Bot
       + Can connect to the Discord, Matrix, or an arbitrary web endpoint
