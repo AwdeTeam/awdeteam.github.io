@@ -49,6 +49,9 @@ total**
   + Hosting
     + [Discourse](https://www.discourse.org/) (tentative)
     + [Next Cloud](https://nextcloud.com/) (tentative; explore other filesharing options first)
+  + Bots
+    + Media Bot
+      + Embeding unfriendly sites (tiktok...)
   + Tools
     + Sysadmin dashboard
   + Explore
